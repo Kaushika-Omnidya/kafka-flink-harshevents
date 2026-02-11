@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "dotenv": "^17.2.4",
+    "kafkajs": "^2.2.4",
+    "mongoose": "^9.2.0",
+    "mqtt": "^5.15.0",
+    "redis": "^5.10.0"
+  }
+}
