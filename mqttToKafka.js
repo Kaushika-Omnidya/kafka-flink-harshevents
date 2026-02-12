@@ -1,5 +1,17 @@
-import mqtt from "mqtt";
-import { Kafka } from "kafkajs";
+/**
+ * mqttToKafka.js
+ * MQTT -> Kafka bridge (CommonJS, Node 10+ compatible)
+ *
+ * ENV:
+ *  MQTT_URL=mqtt://localhost:1883
+ *  MQTT_TOPIC=test/topic
+ *  KAFKA_BROKERS=localhost:9092
+ *  KAFKA_TOPIC=telemetry.raw
+ */
+
+require("dotenv").config();
+const mqtt = require("mqtt");
+const { Kafka } = require("kafkajs");
 
 console.log("Bridge starting...");
 
@@ -9,12 +21,10 @@ const MQTT_URL = process.env.MQTT_URL || "mqtt://localhost:1883";
 const MQTT_TOPIC = process.env.MQTT_TOPIC || "test/topic";
 
 // Kafka
-// If this bridge runs on HOST -> localhost:9092
-// If this bridge runs INSIDE docker-compose network -> kafka:9094
 const KAFKA_BROKERS = (process.env.KAFKA_BROKERS || "localhost:9092").split(",");
 const KAFKA_TOPIC = process.env.KAFKA_TOPIC || "telemetry.raw";
 
-const LOG_EVERY_N = Number(process.env.LOG_EVERY_N || 20); // print 1 in N messages
+const LOG_EVERY_N = Number(process.env.LOG_EVERY_N || 20);
 
 // ---------------- Kafka Producer ----------------
 const kafka = new Kafka({
@@ -29,15 +39,18 @@ const producer = kafka.producer({
 // ---------------- Helpers ----------------
 function safeJsonParse(s) {
   try {
-    if (!s || !s.trim()) return null;
+    if (!s || !String(s).trim()) return null;
+
+    let json = String(s).trim();
 
     // Handle double-encoded JSON string if it ever happens
-    let json = s.trim();
     if (json.startsWith('"') && json.endsWith('"')) {
-      json = json.substring(1, json.length - 1)
+      json = json
+        .slice(1, -1)
         .replace(/\\"/g, '"')
         .replace(/\\\\/g, "\\");
     }
+
     return JSON.parse(json);
   } catch {
     return null;
@@ -45,7 +58,7 @@ function safeJsonParse(s) {
 }
 
 function getDeviceUuid(obj) {
-  const v = obj?.device_uuid;
+  const v = obj && obj.device_uuid;
   if (typeof v === "string" && v.trim()) return v.trim();
   return "unknown-device";
 }
@@ -64,6 +77,7 @@ function getDeviceUuid(obj) {
 
   let count = 0;
   let lastLog = Date.now();
+  let warnedMissingTopic = false;
 
   client.on("connect", () => {
     console.log("✅ Connected to MQTT:", MQTT_URL);
@@ -88,17 +102,11 @@ function getDeviceUuid(obj) {
     try {
       await producer.send({
         topic: KAFKA_TOPIC,
-        messages: [
-          {
-            key: deviceUuid,    // ✅ IMPORTANT: key by device_uuid for Flink keyBy
-            value: JSON.stringify(obj),
-          },
-        ],
+        messages: [{ key: deviceUuid, value: JSON.stringify(obj) }],
       });
 
       count++;
 
-      // Throttled logs
       if (count % LOG_EVERY_N === 0 || Date.now() - lastLog > 15000) {
         lastLog = Date.now();
         console.log(
@@ -106,7 +114,18 @@ function getDeviceUuid(obj) {
         );
       }
     } catch (e) {
-      console.error("❌ Kafka send error:", e?.message || e);
+      const msg = (e && e.message) ? e.message : String(e);
+
+      // Helpful one-time hint
+      if (!warnedMissingTopic && /UnknownTopicOrPartition|UNKNOWN_TOPIC_OR_PARTITION/i.test(msg)) {
+        warnedMissingTopic = true;
+        console.error(
+          `❌ Kafka topic missing: ${KAFKA_TOPIC}. Create it inside Kafka container:\n` +
+          `sudo docker exec -it kafka /opt/kafka/bin/kafka-topics.sh --bootstrap-server localhost:9092 --create --topic ${KAFKA_TOPIC} --partitions 6 --replication-factor 1`
+        );
+      }
+
+      console.error("❌ Kafka send error:", msg);
     }
   });
 
@@ -114,18 +133,16 @@ function getDeviceUuid(obj) {
   client.on("reconnect", () => console.log("🔄 MQTT reconnecting..."));
   client.on("close", () => console.log("🔌 MQTT closed"));
 
-  // Graceful shutdown
   const shutdown = async () => {
     console.log("\nShutting down bridge...");
-    try {
-      client.end(true);
-    } catch {}
-    try {
-      await producer.disconnect();
-    } catch {}
+    try { client.end(true); } catch {}
+    try { await producer.disconnect(); } catch {}
     process.exit(0);
   };
 
   process.on("SIGINT", shutdown);
   process.on("SIGTERM", shutdown);
-})();
+})().catch((e) => {
+  console.error("❌ Bridge fatal error:", e);
+  process.exit(1);
+});

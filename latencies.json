@@ -1,1 +1,3834 @@
-[]
+[
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891611752,
+    "kafka_received_at_ms": 1770891611781,
+    "latency_ms": 29,
+    "timestamp": "2026-02-12T10:20:11.781Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891612752,
+    "kafka_received_at_ms": 1770891612761,
+    "latency_ms": 9,
+    "timestamp": "2026-02-12T10:20:12.761Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891613753,
+    "kafka_received_at_ms": 1770891613769,
+    "latency_ms": 16,
+    "timestamp": "2026-02-12T10:20:13.769Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891614754,
+    "kafka_received_at_ms": 1770891614770,
+    "latency_ms": 16,
+    "timestamp": "2026-02-12T10:20:14.770Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891615755,
+    "kafka_received_at_ms": 1770891615771,
+    "latency_ms": 16,
+    "timestamp": "2026-02-12T10:20:15.771Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891616756,
+    "kafka_received_at_ms": 1770891616773,
+    "latency_ms": 17,
+    "timestamp": "2026-02-12T10:20:16.773Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891618758,
+    "kafka_received_at_ms": 1770891618776,
+    "latency_ms": 18,
+    "timestamp": "2026-02-12T10:20:18.776Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891620760,
+    "kafka_received_at_ms": 1770891620777,
+    "latency_ms": 17,
+    "timestamp": "2026-02-12T10:20:20.777Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891621762,
+    "kafka_received_at_ms": 1770891621779,
+    "latency_ms": 17,
+    "timestamp": "2026-02-12T10:20:21.779Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891622762,
+    "kafka_received_at_ms": 1770891622778,
+    "latency_ms": 16,
+    "timestamp": "2026-02-12T10:20:22.778Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891623763,
+    "kafka_received_at_ms": 1770891623777,
+    "latency_ms": 14,
+    "timestamp": "2026-02-12T10:20:23.777Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891624763,
+    "kafka_received_at_ms": 1770891624780,
+    "latency_ms": 17,
+    "timestamp": "2026-02-12T10:20:24.780Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891625764,
+    "kafka_received_at_ms": 1770891625773,
+    "latency_ms": 9,
+    "timestamp": "2026-02-12T10:20:25.773Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891627766,
+    "kafka_received_at_ms": 1770891627775,
+    "latency_ms": 9,
+    "timestamp": "2026-02-12T10:20:27.775Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891629768,
+    "kafka_received_at_ms": 1770891629790,
+    "latency_ms": 22,
+    "timestamp": "2026-02-12T10:20:29.790Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891630769,
+    "kafka_received_at_ms": 1770891630776,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:20:30.776Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891635775,
+    "kafka_received_at_ms": 1770891635793,
+    "latency_ms": 18,
+    "timestamp": "2026-02-12T10:20:35.793Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891636776,
+    "kafka_received_at_ms": 1770891636782,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:20:36.782Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891638778,
+    "kafka_received_at_ms": 1770891638792,
+    "latency_ms": 14,
+    "timestamp": "2026-02-12T10:20:38.792Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891640780,
+    "kafka_received_at_ms": 1770891640799,
+    "latency_ms": 19,
+    "timestamp": "2026-02-12T10:20:40.799Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891641781,
+    "kafka_received_at_ms": 1770891641796,
+    "latency_ms": 15,
+    "timestamp": "2026-02-12T10:20:41.796Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891646787,
+    "kafka_received_at_ms": 1770891646801,
+    "latency_ms": 14,
+    "timestamp": "2026-02-12T10:20:46.801Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891647788,
+    "kafka_received_at_ms": 1770891647802,
+    "latency_ms": 14,
+    "timestamp": "2026-02-12T10:20:47.802Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891649790,
+    "kafka_received_at_ms": 1770891649797,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:20:49.797Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891650791,
+    "kafka_received_at_ms": 1770891650799,
+    "latency_ms": 8,
+    "timestamp": "2026-02-12T10:20:50.799Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891651792,
+    "kafka_received_at_ms": 1770891651804,
+    "latency_ms": 12,
+    "timestamp": "2026-02-12T10:20:51.804Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891652793,
+    "kafka_received_at_ms": 1770891652805,
+    "latency_ms": 12,
+    "timestamp": "2026-02-12T10:20:52.805Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891653794,
+    "kafka_received_at_ms": 1770891653807,
+    "latency_ms": 13,
+    "timestamp": "2026-02-12T10:20:53.807Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891654795,
+    "kafka_received_at_ms": 1770891654803,
+    "latency_ms": 8,
+    "timestamp": "2026-02-12T10:20:54.803Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891656797,
+    "kafka_received_at_ms": 1770891656816,
+    "latency_ms": 19,
+    "timestamp": "2026-02-12T10:20:56.816Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891658799,
+    "kafka_received_at_ms": 1770891658804,
+    "latency_ms": 5,
+    "timestamp": "2026-02-12T10:20:58.804Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891659800,
+    "kafka_received_at_ms": 1770891659807,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:20:59.807Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891660801,
+    "kafka_received_at_ms": 1770891660809,
+    "latency_ms": 8,
+    "timestamp": "2026-02-12T10:21:00.809Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891663805,
+    "kafka_received_at_ms": 1770891663820,
+    "latency_ms": 15,
+    "timestamp": "2026-02-12T10:21:03.820Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891665807,
+    "kafka_received_at_ms": 1770891665821,
+    "latency_ms": 14,
+    "timestamp": "2026-02-12T10:21:05.821Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891669812,
+    "kafka_received_at_ms": 1770891669828,
+    "latency_ms": 16,
+    "timestamp": "2026-02-12T10:21:09.828Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891671813,
+    "kafka_received_at_ms": 1770891671831,
+    "latency_ms": 18,
+    "timestamp": "2026-02-12T10:21:11.831Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891674816,
+    "kafka_received_at_ms": 1770891674828,
+    "latency_ms": 12,
+    "timestamp": "2026-02-12T10:21:14.828Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891677818,
+    "kafka_received_at_ms": 1770891677824,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:21:17.824Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891679819,
+    "kafka_received_at_ms": 1770891679832,
+    "latency_ms": 13,
+    "timestamp": "2026-02-12T10:21:19.832Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891681822,
+    "kafka_received_at_ms": 1770891681828,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:21:21.828Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891682824,
+    "kafka_received_at_ms": 1770891682829,
+    "latency_ms": 5,
+    "timestamp": "2026-02-12T10:21:22.829Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891684826,
+    "kafka_received_at_ms": 1770891684839,
+    "latency_ms": 13,
+    "timestamp": "2026-02-12T10:21:24.839Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891685827,
+    "kafka_received_at_ms": 1770891685841,
+    "latency_ms": 14,
+    "timestamp": "2026-02-12T10:21:25.841Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891686828,
+    "kafka_received_at_ms": 1770891686844,
+    "latency_ms": 16,
+    "timestamp": "2026-02-12T10:21:26.844Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891687829,
+    "kafka_received_at_ms": 1770891687835,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:21:27.835Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891688830,
+    "kafka_received_at_ms": 1770891688843,
+    "latency_ms": 13,
+    "timestamp": "2026-02-12T10:21:28.843Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891689832,
+    "kafka_received_at_ms": 1770891689838,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:21:29.838Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891691834,
+    "kafka_received_at_ms": 1770891691840,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:21:31.840Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891693835,
+    "kafka_received_at_ms": 1770891693851,
+    "latency_ms": 16,
+    "timestamp": "2026-02-12T10:21:33.851Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891696838,
+    "kafka_received_at_ms": 1770891696854,
+    "latency_ms": 16,
+    "timestamp": "2026-02-12T10:21:36.854Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891697839,
+    "kafka_received_at_ms": 1770891697847,
+    "latency_ms": 8,
+    "timestamp": "2026-02-12T10:21:37.847Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891698840,
+    "kafka_received_at_ms": 1770891698845,
+    "latency_ms": 5,
+    "timestamp": "2026-02-12T10:21:38.845Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891700840,
+    "kafka_received_at_ms": 1770891700847,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:21:40.847Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891701840,
+    "kafka_received_at_ms": 1770891701853,
+    "latency_ms": 13,
+    "timestamp": "2026-02-12T10:21:41.853Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891704843,
+    "kafka_received_at_ms": 1770891704849,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:21:44.849Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891705844,
+    "kafka_received_at_ms": 1770891705859,
+    "latency_ms": 15,
+    "timestamp": "2026-02-12T10:21:45.859Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891706845,
+    "kafka_received_at_ms": 1770891706851,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:21:46.851Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891707846,
+    "kafka_received_at_ms": 1770891707859,
+    "latency_ms": 13,
+    "timestamp": "2026-02-12T10:21:47.859Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891709849,
+    "kafka_received_at_ms": 1770891709862,
+    "latency_ms": 13,
+    "timestamp": "2026-02-12T10:21:49.862Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891710850,
+    "kafka_received_at_ms": 1770891710865,
+    "latency_ms": 15,
+    "timestamp": "2026-02-12T10:21:50.865Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891711851,
+    "kafka_received_at_ms": 1770891711867,
+    "latency_ms": 16,
+    "timestamp": "2026-02-12T10:21:51.867Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891712852,
+    "kafka_received_at_ms": 1770891712858,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:21:52.858Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891715855,
+    "kafka_received_at_ms": 1770891715871,
+    "latency_ms": 16,
+    "timestamp": "2026-02-12T10:21:55.871Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891717857,
+    "kafka_received_at_ms": 1770891717871,
+    "latency_ms": 14,
+    "timestamp": "2026-02-12T10:21:57.871Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891719859,
+    "kafka_received_at_ms": 1770891719872,
+    "latency_ms": 13,
+    "timestamp": "2026-02-12T10:21:59.872Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891722862,
+    "kafka_received_at_ms": 1770891722868,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:22:02.868Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891723863,
+    "kafka_received_at_ms": 1770891723878,
+    "latency_ms": 15,
+    "timestamp": "2026-02-12T10:22:03.878Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891726866,
+    "kafka_received_at_ms": 1770891726872,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:22:06.872Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891728868,
+    "kafka_received_at_ms": 1770891728882,
+    "latency_ms": 14,
+    "timestamp": "2026-02-12T10:22:08.882Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891730870,
+    "kafka_received_at_ms": 1770891730877,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:22:10.877Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891731871,
+    "kafka_received_at_ms": 1770891731885,
+    "latency_ms": 14,
+    "timestamp": "2026-02-12T10:22:11.885Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891732872,
+    "kafka_received_at_ms": 1770891732886,
+    "latency_ms": 14,
+    "timestamp": "2026-02-12T10:22:12.886Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891733873,
+    "kafka_received_at_ms": 1770891733878,
+    "latency_ms": 5,
+    "timestamp": "2026-02-12T10:22:13.878Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891734874,
+    "kafka_received_at_ms": 1770891734880,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:22:14.880Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891735876,
+    "kafka_received_at_ms": 1770891735890,
+    "latency_ms": 14,
+    "timestamp": "2026-02-12T10:22:15.890Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891736877,
+    "kafka_received_at_ms": 1770891736882,
+    "latency_ms": 5,
+    "timestamp": "2026-02-12T10:22:16.882Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891737878,
+    "kafka_received_at_ms": 1770891737892,
+    "latency_ms": 14,
+    "timestamp": "2026-02-12T10:22:17.892Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891738879,
+    "kafka_received_at_ms": 1770891738892,
+    "latency_ms": 13,
+    "timestamp": "2026-02-12T10:22:18.892Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891739880,
+    "kafka_received_at_ms": 1770891739896,
+    "latency_ms": 16,
+    "timestamp": "2026-02-12T10:22:19.896Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891740882,
+    "kafka_received_at_ms": 1770891740887,
+    "latency_ms": 5,
+    "timestamp": "2026-02-12T10:22:20.887Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891742884,
+    "kafka_received_at_ms": 1770891742899,
+    "latency_ms": 15,
+    "timestamp": "2026-02-12T10:22:22.899Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891743885,
+    "kafka_received_at_ms": 1770891743900,
+    "latency_ms": 15,
+    "timestamp": "2026-02-12T10:22:23.900Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891746888,
+    "kafka_received_at_ms": 1770891746893,
+    "latency_ms": 5,
+    "timestamp": "2026-02-12T10:22:26.893Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891749891,
+    "kafka_received_at_ms": 1770891749904,
+    "latency_ms": 13,
+    "timestamp": "2026-02-12T10:22:29.904Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891679819,
+    "kafka_received_at_ms": 1770892002355,
+    "latency_ms": 322536,
+    "timestamp": "2026-02-12T10:26:42.355Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891681822,
+    "kafka_received_at_ms": 1770892002368,
+    "latency_ms": 320546,
+    "timestamp": "2026-02-12T10:26:42.368Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891682824,
+    "kafka_received_at_ms": 1770892002371,
+    "latency_ms": 319547,
+    "timestamp": "2026-02-12T10:26:42.371Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891684826,
+    "kafka_received_at_ms": 1770892002374,
+    "latency_ms": 317548,
+    "timestamp": "2026-02-12T10:26:42.374Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891685827,
+    "kafka_received_at_ms": 1770892002377,
+    "latency_ms": 316550,
+    "timestamp": "2026-02-12T10:26:42.377Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891686828,
+    "kafka_received_at_ms": 1770892002380,
+    "latency_ms": 315552,
+    "timestamp": "2026-02-12T10:26:42.380Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891687829,
+    "kafka_received_at_ms": 1770892002384,
+    "latency_ms": 314555,
+    "timestamp": "2026-02-12T10:26:42.384Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891688830,
+    "kafka_received_at_ms": 1770892002390,
+    "latency_ms": 313560,
+    "timestamp": "2026-02-12T10:26:42.390Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891689832,
+    "kafka_received_at_ms": 1770892002393,
+    "latency_ms": 312561,
+    "timestamp": "2026-02-12T10:26:42.393Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891691834,
+    "kafka_received_at_ms": 1770892002396,
+    "latency_ms": 310562,
+    "timestamp": "2026-02-12T10:26:42.396Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891693835,
+    "kafka_received_at_ms": 1770892002398,
+    "latency_ms": 308563,
+    "timestamp": "2026-02-12T10:26:42.398Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891696838,
+    "kafka_received_at_ms": 1770892002400,
+    "latency_ms": 305562,
+    "timestamp": "2026-02-12T10:26:42.400Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891697839,
+    "kafka_received_at_ms": 1770892002402,
+    "latency_ms": 304563,
+    "timestamp": "2026-02-12T10:26:42.402Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891698840,
+    "kafka_received_at_ms": 1770892002404,
+    "latency_ms": 303564,
+    "timestamp": "2026-02-12T10:26:42.404Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891700840,
+    "kafka_received_at_ms": 1770892002407,
+    "latency_ms": 301567,
+    "timestamp": "2026-02-12T10:26:42.407Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891701840,
+    "kafka_received_at_ms": 1770892002409,
+    "latency_ms": 300569,
+    "timestamp": "2026-02-12T10:26:42.409Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891704843,
+    "kafka_received_at_ms": 1770892002413,
+    "latency_ms": 297570,
+    "timestamp": "2026-02-12T10:26:42.413Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891705844,
+    "kafka_received_at_ms": 1770892002416,
+    "latency_ms": 296572,
+    "timestamp": "2026-02-12T10:26:42.416Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891706845,
+    "kafka_received_at_ms": 1770892002420,
+    "latency_ms": 295575,
+    "timestamp": "2026-02-12T10:26:42.420Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891707846,
+    "kafka_received_at_ms": 1770892002422,
+    "latency_ms": 294576,
+    "timestamp": "2026-02-12T10:26:42.422Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891709849,
+    "kafka_received_at_ms": 1770892002424,
+    "latency_ms": 292575,
+    "timestamp": "2026-02-12T10:26:42.424Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891710850,
+    "kafka_received_at_ms": 1770892002426,
+    "latency_ms": 291576,
+    "timestamp": "2026-02-12T10:26:42.426Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891711851,
+    "kafka_received_at_ms": 1770892002428,
+    "latency_ms": 290577,
+    "timestamp": "2026-02-12T10:26:42.428Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891712852,
+    "kafka_received_at_ms": 1770892002431,
+    "latency_ms": 289579,
+    "timestamp": "2026-02-12T10:26:42.431Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891715855,
+    "kafka_received_at_ms": 1770892002432,
+    "latency_ms": 286577,
+    "timestamp": "2026-02-12T10:26:42.432Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891717857,
+    "kafka_received_at_ms": 1770892002434,
+    "latency_ms": 284577,
+    "timestamp": "2026-02-12T10:26:42.434Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891719859,
+    "kafka_received_at_ms": 1770892002436,
+    "latency_ms": 282577,
+    "timestamp": "2026-02-12T10:26:42.436Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891722862,
+    "kafka_received_at_ms": 1770892002438,
+    "latency_ms": 279576,
+    "timestamp": "2026-02-12T10:26:42.438Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891723863,
+    "kafka_received_at_ms": 1770892002440,
+    "latency_ms": 278577,
+    "timestamp": "2026-02-12T10:26:42.440Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891726866,
+    "kafka_received_at_ms": 1770892002442,
+    "latency_ms": 275576,
+    "timestamp": "2026-02-12T10:26:42.442Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891728868,
+    "kafka_received_at_ms": 1770892002443,
+    "latency_ms": 273575,
+    "timestamp": "2026-02-12T10:26:42.443Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891730870,
+    "kafka_received_at_ms": 1770892002445,
+    "latency_ms": 271575,
+    "timestamp": "2026-02-12T10:26:42.445Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891731871,
+    "kafka_received_at_ms": 1770892002446,
+    "latency_ms": 270575,
+    "timestamp": "2026-02-12T10:26:42.446Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891732872,
+    "kafka_received_at_ms": 1770892002447,
+    "latency_ms": 269575,
+    "timestamp": "2026-02-12T10:26:42.447Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891733873,
+    "kafka_received_at_ms": 1770892002449,
+    "latency_ms": 268576,
+    "timestamp": "2026-02-12T10:26:42.449Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891734874,
+    "kafka_received_at_ms": 1770892002450,
+    "latency_ms": 267576,
+    "timestamp": "2026-02-12T10:26:42.450Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891735876,
+    "kafka_received_at_ms": 1770892002452,
+    "latency_ms": 266576,
+    "timestamp": "2026-02-12T10:26:42.452Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891736877,
+    "kafka_received_at_ms": 1770892002454,
+    "latency_ms": 265577,
+    "timestamp": "2026-02-12T10:26:42.454Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891737878,
+    "kafka_received_at_ms": 1770892002456,
+    "latency_ms": 264578,
+    "timestamp": "2026-02-12T10:26:42.456Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891738879,
+    "kafka_received_at_ms": 1770892002458,
+    "latency_ms": 263579,
+    "timestamp": "2026-02-12T10:26:42.458Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891739880,
+    "kafka_received_at_ms": 1770892002459,
+    "latency_ms": 262579,
+    "timestamp": "2026-02-12T10:26:42.459Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "debug-device-4",
+    "mqtt_sent_at_ms": 1770893400000,
+    "kafka_received_at_ms": 1770892002533,
+    "latency_ms": -1397467,
+    "timestamp": "2026-02-12T10:26:42.533Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891611752,
+    "kafka_received_at_ms": 1770892002537,
+    "latency_ms": 390785,
+    "timestamp": "2026-02-12T10:26:42.537Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891612752,
+    "kafka_received_at_ms": 1770892002541,
+    "latency_ms": 389789,
+    "timestamp": "2026-02-12T10:26:42.541Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891613753,
+    "kafka_received_at_ms": 1770892002543,
+    "latency_ms": 388790,
+    "timestamp": "2026-02-12T10:26:42.543Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891614754,
+    "kafka_received_at_ms": 1770892002544,
+    "latency_ms": 387790,
+    "timestamp": "2026-02-12T10:26:42.544Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891615755,
+    "kafka_received_at_ms": 1770892002545,
+    "latency_ms": 386790,
+    "timestamp": "2026-02-12T10:26:42.545Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891616756,
+    "kafka_received_at_ms": 1770892002547,
+    "latency_ms": 385791,
+    "timestamp": "2026-02-12T10:26:42.547Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891618758,
+    "kafka_received_at_ms": 1770892002548,
+    "latency_ms": 383790,
+    "timestamp": "2026-02-12T10:26:42.548Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891620760,
+    "kafka_received_at_ms": 1770892002550,
+    "latency_ms": 381790,
+    "timestamp": "2026-02-12T10:26:42.550Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891621762,
+    "kafka_received_at_ms": 1770892002552,
+    "latency_ms": 380790,
+    "timestamp": "2026-02-12T10:26:42.552Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891622762,
+    "kafka_received_at_ms": 1770892002554,
+    "latency_ms": 379792,
+    "timestamp": "2026-02-12T10:26:42.554Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891623763,
+    "kafka_received_at_ms": 1770892002556,
+    "latency_ms": 378793,
+    "timestamp": "2026-02-12T10:26:42.556Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891624763,
+    "kafka_received_at_ms": 1770892002558,
+    "latency_ms": 377795,
+    "timestamp": "2026-02-12T10:26:42.558Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891625764,
+    "kafka_received_at_ms": 1770892002560,
+    "latency_ms": 376796,
+    "timestamp": "2026-02-12T10:26:42.560Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891627766,
+    "kafka_received_at_ms": 1770892002561,
+    "latency_ms": 374795,
+    "timestamp": "2026-02-12T10:26:42.561Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891629768,
+    "kafka_received_at_ms": 1770892002564,
+    "latency_ms": 372796,
+    "timestamp": "2026-02-12T10:26:42.564Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891630769,
+    "kafka_received_at_ms": 1770892002565,
+    "latency_ms": 371796,
+    "timestamp": "2026-02-12T10:26:42.565Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891635775,
+    "kafka_received_at_ms": 1770892002566,
+    "latency_ms": 366791,
+    "timestamp": "2026-02-12T10:26:42.566Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891636776,
+    "kafka_received_at_ms": 1770892002569,
+    "latency_ms": 365793,
+    "timestamp": "2026-02-12T10:26:42.569Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891638778,
+    "kafka_received_at_ms": 1770892002570,
+    "latency_ms": 363792,
+    "timestamp": "2026-02-12T10:26:42.570Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891640780,
+    "kafka_received_at_ms": 1770892002572,
+    "latency_ms": 361792,
+    "timestamp": "2026-02-12T10:26:42.572Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891641781,
+    "kafka_received_at_ms": 1770892002575,
+    "latency_ms": 360794,
+    "timestamp": "2026-02-12T10:26:42.575Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891646787,
+    "kafka_received_at_ms": 1770892002577,
+    "latency_ms": 355790,
+    "timestamp": "2026-02-12T10:26:42.577Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891647788,
+    "kafka_received_at_ms": 1770892002578,
+    "latency_ms": 354790,
+    "timestamp": "2026-02-12T10:26:42.578Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891649790,
+    "kafka_received_at_ms": 1770892002580,
+    "latency_ms": 352790,
+    "timestamp": "2026-02-12T10:26:42.580Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891650791,
+    "kafka_received_at_ms": 1770892002582,
+    "latency_ms": 351791,
+    "timestamp": "2026-02-12T10:26:42.582Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891651792,
+    "kafka_received_at_ms": 1770892002583,
+    "latency_ms": 350791,
+    "timestamp": "2026-02-12T10:26:42.583Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891652793,
+    "kafka_received_at_ms": 1770892002584,
+    "latency_ms": 349791,
+    "timestamp": "2026-02-12T10:26:42.584Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891653794,
+    "kafka_received_at_ms": 1770892002586,
+    "latency_ms": 348792,
+    "timestamp": "2026-02-12T10:26:42.586Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891654795,
+    "kafka_received_at_ms": 1770892002588,
+    "latency_ms": 347793,
+    "timestamp": "2026-02-12T10:26:42.588Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891656797,
+    "kafka_received_at_ms": 1770892002590,
+    "latency_ms": 345793,
+    "timestamp": "2026-02-12T10:26:42.590Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891658799,
+    "kafka_received_at_ms": 1770892002592,
+    "latency_ms": 343793,
+    "timestamp": "2026-02-12T10:26:42.592Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891659800,
+    "kafka_received_at_ms": 1770892002594,
+    "latency_ms": 342794,
+    "timestamp": "2026-02-12T10:26:42.594Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891660801,
+    "kafka_received_at_ms": 1770892002595,
+    "latency_ms": 341794,
+    "timestamp": "2026-02-12T10:26:42.595Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891663805,
+    "kafka_received_at_ms": 1770892002597,
+    "latency_ms": 338792,
+    "timestamp": "2026-02-12T10:26:42.597Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891665807,
+    "kafka_received_at_ms": 1770892002599,
+    "latency_ms": 336792,
+    "timestamp": "2026-02-12T10:26:42.599Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891669812,
+    "kafka_received_at_ms": 1770892002601,
+    "latency_ms": 332789,
+    "timestamp": "2026-02-12T10:26:42.601Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891671813,
+    "kafka_received_at_ms": 1770892002603,
+    "latency_ms": 330790,
+    "timestamp": "2026-02-12T10:26:42.603Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891674816,
+    "kafka_received_at_ms": 1770892002606,
+    "latency_ms": 327790,
+    "timestamp": "2026-02-12T10:26:42.606Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891677818,
+    "kafka_received_at_ms": 1770892002609,
+    "latency_ms": 324791,
+    "timestamp": "2026-02-12T10:26:42.609Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891679819,
+    "kafka_received_at_ms": 1770892002612,
+    "latency_ms": 322793,
+    "timestamp": "2026-02-12T10:26:42.612Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891681822,
+    "kafka_received_at_ms": 1770892002614,
+    "latency_ms": 320792,
+    "timestamp": "2026-02-12T10:26:42.614Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891682824,
+    "kafka_received_at_ms": 1770892002616,
+    "latency_ms": 319792,
+    "timestamp": "2026-02-12T10:26:42.616Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891684826,
+    "kafka_received_at_ms": 1770892002619,
+    "latency_ms": 317793,
+    "timestamp": "2026-02-12T10:26:42.619Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891685827,
+    "kafka_received_at_ms": 1770892002622,
+    "latency_ms": 316795,
+    "timestamp": "2026-02-12T10:26:42.622Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891686828,
+    "kafka_received_at_ms": 1770892002624,
+    "latency_ms": 315796,
+    "timestamp": "2026-02-12T10:26:42.624Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891687829,
+    "kafka_received_at_ms": 1770892002626,
+    "latency_ms": 314797,
+    "timestamp": "2026-02-12T10:26:42.626Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891688830,
+    "kafka_received_at_ms": 1770892002628,
+    "latency_ms": 313798,
+    "timestamp": "2026-02-12T10:26:42.628Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891689832,
+    "kafka_received_at_ms": 1770892002629,
+    "latency_ms": 312797,
+    "timestamp": "2026-02-12T10:26:42.629Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891691834,
+    "kafka_received_at_ms": 1770892002631,
+    "latency_ms": 310797,
+    "timestamp": "2026-02-12T10:26:42.631Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891693835,
+    "kafka_received_at_ms": 1770892002633,
+    "latency_ms": 308798,
+    "timestamp": "2026-02-12T10:26:42.633Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891696838,
+    "kafka_received_at_ms": 1770892002636,
+    "latency_ms": 305798,
+    "timestamp": "2026-02-12T10:26:42.636Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891697839,
+    "kafka_received_at_ms": 1770892002639,
+    "latency_ms": 304800,
+    "timestamp": "2026-02-12T10:26:42.639Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891698840,
+    "kafka_received_at_ms": 1770892002641,
+    "latency_ms": 303801,
+    "timestamp": "2026-02-12T10:26:42.641Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891700840,
+    "kafka_received_at_ms": 1770892002643,
+    "latency_ms": 301803,
+    "timestamp": "2026-02-12T10:26:42.643Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891701840,
+    "kafka_received_at_ms": 1770892002644,
+    "latency_ms": 300804,
+    "timestamp": "2026-02-12T10:26:42.644Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891704843,
+    "kafka_received_at_ms": 1770892002645,
+    "latency_ms": 297802,
+    "timestamp": "2026-02-12T10:26:42.645Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891705844,
+    "kafka_received_at_ms": 1770892002647,
+    "latency_ms": 296803,
+    "timestamp": "2026-02-12T10:26:42.647Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891706845,
+    "kafka_received_at_ms": 1770892002648,
+    "latency_ms": 295803,
+    "timestamp": "2026-02-12T10:26:42.648Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891707846,
+    "kafka_received_at_ms": 1770892002650,
+    "latency_ms": 294804,
+    "timestamp": "2026-02-12T10:26:42.650Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891709849,
+    "kafka_received_at_ms": 1770892002652,
+    "latency_ms": 292803,
+    "timestamp": "2026-02-12T10:26:42.652Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891710850,
+    "kafka_received_at_ms": 1770892002654,
+    "latency_ms": 291804,
+    "timestamp": "2026-02-12T10:26:42.654Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891711851,
+    "kafka_received_at_ms": 1770892002656,
+    "latency_ms": 290805,
+    "timestamp": "2026-02-12T10:26:42.656Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891712852,
+    "kafka_received_at_ms": 1770892002658,
+    "latency_ms": 289806,
+    "timestamp": "2026-02-12T10:26:42.658Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891715855,
+    "kafka_received_at_ms": 1770892002660,
+    "latency_ms": 286805,
+    "timestamp": "2026-02-12T10:26:42.660Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891717857,
+    "kafka_received_at_ms": 1770892002661,
+    "latency_ms": 284804,
+    "timestamp": "2026-02-12T10:26:42.661Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891719859,
+    "kafka_received_at_ms": 1770892002663,
+    "latency_ms": 282804,
+    "timestamp": "2026-02-12T10:26:42.663Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891722862,
+    "kafka_received_at_ms": 1770892002664,
+    "latency_ms": 279802,
+    "timestamp": "2026-02-12T10:26:42.664Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891723863,
+    "kafka_received_at_ms": 1770892002666,
+    "latency_ms": 278803,
+    "timestamp": "2026-02-12T10:26:42.666Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891726866,
+    "kafka_received_at_ms": 1770892002668,
+    "latency_ms": 275802,
+    "timestamp": "2026-02-12T10:26:42.668Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891728868,
+    "kafka_received_at_ms": 1770892002670,
+    "latency_ms": 273802,
+    "timestamp": "2026-02-12T10:26:42.670Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891730870,
+    "kafka_received_at_ms": 1770892002673,
+    "latency_ms": 271803,
+    "timestamp": "2026-02-12T10:26:42.673Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891731871,
+    "kafka_received_at_ms": 1770892002676,
+    "latency_ms": 270805,
+    "timestamp": "2026-02-12T10:26:42.676Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891732872,
+    "kafka_received_at_ms": 1770892002678,
+    "latency_ms": 269806,
+    "timestamp": "2026-02-12T10:26:42.678Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891733873,
+    "kafka_received_at_ms": 1770892002680,
+    "latency_ms": 268807,
+    "timestamp": "2026-02-12T10:26:42.680Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891734874,
+    "kafka_received_at_ms": 1770892002682,
+    "latency_ms": 267808,
+    "timestamp": "2026-02-12T10:26:42.682Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891735876,
+    "kafka_received_at_ms": 1770892002683,
+    "latency_ms": 266807,
+    "timestamp": "2026-02-12T10:26:42.683Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891736877,
+    "kafka_received_at_ms": 1770892002685,
+    "latency_ms": 265808,
+    "timestamp": "2026-02-12T10:26:42.685Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891737878,
+    "kafka_received_at_ms": 1770892002688,
+    "latency_ms": 264810,
+    "timestamp": "2026-02-12T10:26:42.688Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891738879,
+    "kafka_received_at_ms": 1770892002690,
+    "latency_ms": 263811,
+    "timestamp": "2026-02-12T10:26:42.690Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891739880,
+    "kafka_received_at_ms": 1770892002692,
+    "latency_ms": 262812,
+    "timestamp": "2026-02-12T10:26:42.692Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891740882,
+    "kafka_received_at_ms": 1770892002694,
+    "latency_ms": 261812,
+    "timestamp": "2026-02-12T10:26:42.694Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891742884,
+    "kafka_received_at_ms": 1770892002702,
+    "latency_ms": 259818,
+    "timestamp": "2026-02-12T10:26:42.702Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891743885,
+    "kafka_received_at_ms": 1770892002705,
+    "latency_ms": 258820,
+    "timestamp": "2026-02-12T10:26:42.705Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891746888,
+    "kafka_received_at_ms": 1770892002708,
+    "latency_ms": 255820,
+    "timestamp": "2026-02-12T10:26:42.708Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891749891,
+    "kafka_received_at_ms": 1770892002710,
+    "latency_ms": 252819,
+    "timestamp": "2026-02-12T10:26:42.710Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "debug-device-4",
+    "mqtt_sent_at_ms": 1770893400000,
+    "kafka_received_at_ms": 1770892002712,
+    "latency_ms": -1397288,
+    "timestamp": "2026-02-12T10:26:42.712Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891611752,
+    "kafka_received_at_ms": 1770892002715,
+    "latency_ms": 390963,
+    "timestamp": "2026-02-12T10:26:42.715Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891612752,
+    "kafka_received_at_ms": 1770892002716,
+    "latency_ms": 389964,
+    "timestamp": "2026-02-12T10:26:42.716Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891613753,
+    "kafka_received_at_ms": 1770892002718,
+    "latency_ms": 388965,
+    "timestamp": "2026-02-12T10:26:42.718Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891614754,
+    "kafka_received_at_ms": 1770892002721,
+    "latency_ms": 387967,
+    "timestamp": "2026-02-12T10:26:42.721Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891615755,
+    "kafka_received_at_ms": 1770892002725,
+    "latency_ms": 386970,
+    "timestamp": "2026-02-12T10:26:42.725Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891616756,
+    "kafka_received_at_ms": 1770892002728,
+    "latency_ms": 385972,
+    "timestamp": "2026-02-12T10:26:42.728Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891618758,
+    "kafka_received_at_ms": 1770892002730,
+    "latency_ms": 383972,
+    "timestamp": "2026-02-12T10:26:42.730Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891620760,
+    "kafka_received_at_ms": 1770892002732,
+    "latency_ms": 381972,
+    "timestamp": "2026-02-12T10:26:42.732Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891621762,
+    "kafka_received_at_ms": 1770892002733,
+    "latency_ms": 380971,
+    "timestamp": "2026-02-12T10:26:42.733Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891622762,
+    "kafka_received_at_ms": 1770892002735,
+    "latency_ms": 379973,
+    "timestamp": "2026-02-12T10:26:42.735Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891623763,
+    "kafka_received_at_ms": 1770892002736,
+    "latency_ms": 378973,
+    "timestamp": "2026-02-12T10:26:42.736Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891624763,
+    "kafka_received_at_ms": 1770892002738,
+    "latency_ms": 377975,
+    "timestamp": "2026-02-12T10:26:42.738Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891625764,
+    "kafka_received_at_ms": 1770892002741,
+    "latency_ms": 376977,
+    "timestamp": "2026-02-12T10:26:42.741Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891627766,
+    "kafka_received_at_ms": 1770892002744,
+    "latency_ms": 374978,
+    "timestamp": "2026-02-12T10:26:42.744Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891629768,
+    "kafka_received_at_ms": 1770892002746,
+    "latency_ms": 372978,
+    "timestamp": "2026-02-12T10:26:42.746Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891630769,
+    "kafka_received_at_ms": 1770892002748,
+    "latency_ms": 371979,
+    "timestamp": "2026-02-12T10:26:42.748Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891635775,
+    "kafka_received_at_ms": 1770892002750,
+    "latency_ms": 366975,
+    "timestamp": "2026-02-12T10:26:42.750Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891636776,
+    "kafka_received_at_ms": 1770892002752,
+    "latency_ms": 365976,
+    "timestamp": "2026-02-12T10:26:42.752Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891638778,
+    "kafka_received_at_ms": 1770892002754,
+    "latency_ms": 363976,
+    "timestamp": "2026-02-12T10:26:42.754Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891640780,
+    "kafka_received_at_ms": 1770892002755,
+    "latency_ms": 361975,
+    "timestamp": "2026-02-12T10:26:42.755Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891641781,
+    "kafka_received_at_ms": 1770892002757,
+    "latency_ms": 360976,
+    "timestamp": "2026-02-12T10:26:42.757Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891646787,
+    "kafka_received_at_ms": 1770892002759,
+    "latency_ms": 355972,
+    "timestamp": "2026-02-12T10:26:42.759Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891647788,
+    "kafka_received_at_ms": 1770892002760,
+    "latency_ms": 354972,
+    "timestamp": "2026-02-12T10:26:42.760Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891649790,
+    "kafka_received_at_ms": 1770892002761,
+    "latency_ms": 352971,
+    "timestamp": "2026-02-12T10:26:42.761Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891650791,
+    "kafka_received_at_ms": 1770892002762,
+    "latency_ms": 351971,
+    "timestamp": "2026-02-12T10:26:42.762Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891651792,
+    "kafka_received_at_ms": 1770892002764,
+    "latency_ms": 350972,
+    "timestamp": "2026-02-12T10:26:42.764Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891652793,
+    "kafka_received_at_ms": 1770892002765,
+    "latency_ms": 349972,
+    "timestamp": "2026-02-12T10:26:42.765Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891653794,
+    "kafka_received_at_ms": 1770892002767,
+    "latency_ms": 348973,
+    "timestamp": "2026-02-12T10:26:42.767Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891654795,
+    "kafka_received_at_ms": 1770892002769,
+    "latency_ms": 347974,
+    "timestamp": "2026-02-12T10:26:42.769Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891656797,
+    "kafka_received_at_ms": 1770892002771,
+    "latency_ms": 345974,
+    "timestamp": "2026-02-12T10:26:42.771Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891658799,
+    "kafka_received_at_ms": 1770892002773,
+    "latency_ms": 343974,
+    "timestamp": "2026-02-12T10:26:42.773Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891659800,
+    "kafka_received_at_ms": 1770892002775,
+    "latency_ms": 342975,
+    "timestamp": "2026-02-12T10:26:42.775Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891660801,
+    "kafka_received_at_ms": 1770892002777,
+    "latency_ms": 341976,
+    "timestamp": "2026-02-12T10:26:42.777Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891663805,
+    "kafka_received_at_ms": 1770892002778,
+    "latency_ms": 338973,
+    "timestamp": "2026-02-12T10:26:42.778Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891665807,
+    "kafka_received_at_ms": 1770892002779,
+    "latency_ms": 336972,
+    "timestamp": "2026-02-12T10:26:42.779Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891669812,
+    "kafka_received_at_ms": 1770892002780,
+    "latency_ms": 332968,
+    "timestamp": "2026-02-12T10:26:42.780Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891671813,
+    "kafka_received_at_ms": 1770892002782,
+    "latency_ms": 330969,
+    "timestamp": "2026-02-12T10:26:42.782Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891674816,
+    "kafka_received_at_ms": 1770892002783,
+    "latency_ms": 327967,
+    "timestamp": "2026-02-12T10:26:42.783Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770891677818,
+    "kafka_received_at_ms": 1770892002785,
+    "latency_ms": 324967,
+    "timestamp": "2026-02-12T10:26:42.785Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892007489,
+    "kafka_received_at_ms": 1770892007500,
+    "latency_ms": 11,
+    "timestamp": "2026-02-12T10:26:47.500Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892007489,
+    "kafka_received_at_ms": 1770892007510,
+    "latency_ms": 21,
+    "timestamp": "2026-02-12T10:26:47.510Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892008490,
+    "kafka_received_at_ms": 1770892008499,
+    "latency_ms": 9,
+    "timestamp": "2026-02-12T10:26:48.499Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892008490,
+    "kafka_received_at_ms": 1770892008508,
+    "latency_ms": 18,
+    "timestamp": "2026-02-12T10:26:48.508Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892013495,
+    "kafka_received_at_ms": 1770892013504,
+    "latency_ms": 9,
+    "timestamp": "2026-02-12T10:26:53.504Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892013495,
+    "kafka_received_at_ms": 1770892013515,
+    "latency_ms": 20,
+    "timestamp": "2026-02-12T10:26:53.515Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892015496,
+    "kafka_received_at_ms": 1770892015504,
+    "latency_ms": 8,
+    "timestamp": "2026-02-12T10:26:55.504Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892015496,
+    "kafka_received_at_ms": 1770892015515,
+    "latency_ms": 19,
+    "timestamp": "2026-02-12T10:26:55.515Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892017498,
+    "kafka_received_at_ms": 1770892017507,
+    "latency_ms": 9,
+    "timestamp": "2026-02-12T10:26:57.507Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892017498,
+    "kafka_received_at_ms": 1770892017516,
+    "latency_ms": 18,
+    "timestamp": "2026-02-12T10:26:57.516Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892018498,
+    "kafka_received_at_ms": 1770892018506,
+    "latency_ms": 8,
+    "timestamp": "2026-02-12T10:26:58.506Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892018498,
+    "kafka_received_at_ms": 1770892018517,
+    "latency_ms": 19,
+    "timestamp": "2026-02-12T10:26:58.517Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892019500,
+    "kafka_received_at_ms": 1770892019508,
+    "latency_ms": 8,
+    "timestamp": "2026-02-12T10:26:59.508Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892019500,
+    "kafka_received_at_ms": 1770892019518,
+    "latency_ms": 18,
+    "timestamp": "2026-02-12T10:26:59.518Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892020501,
+    "kafka_received_at_ms": 1770892020509,
+    "latency_ms": 8,
+    "timestamp": "2026-02-12T10:27:00.509Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892020501,
+    "kafka_received_at_ms": 1770892020520,
+    "latency_ms": 19,
+    "timestamp": "2026-02-12T10:27:00.520Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892021503,
+    "kafka_received_at_ms": 1770892021519,
+    "latency_ms": 16,
+    "timestamp": "2026-02-12T10:27:01.519Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892021503,
+    "kafka_received_at_ms": 1770892021536,
+    "latency_ms": 33,
+    "timestamp": "2026-02-12T10:27:01.536Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892023505,
+    "kafka_received_at_ms": 1770892023522,
+    "latency_ms": 17,
+    "timestamp": "2026-02-12T10:27:03.522Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892023505,
+    "kafka_received_at_ms": 1770892023542,
+    "latency_ms": 37,
+    "timestamp": "2026-02-12T10:27:03.542Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892026508,
+    "kafka_received_at_ms": 1770892026516,
+    "latency_ms": 8,
+    "timestamp": "2026-02-12T10:27:06.516Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892026508,
+    "kafka_received_at_ms": 1770892026534,
+    "latency_ms": 26,
+    "timestamp": "2026-02-12T10:27:06.534Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892027508,
+    "kafka_received_at_ms": 1770892027514,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:27:07.514Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892027508,
+    "kafka_received_at_ms": 1770892027527,
+    "latency_ms": 19,
+    "timestamp": "2026-02-12T10:27:07.527Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892028509,
+    "kafka_received_at_ms": 1770892028514,
+    "latency_ms": 5,
+    "timestamp": "2026-02-12T10:27:08.514Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892028509,
+    "kafka_received_at_ms": 1770892028523,
+    "latency_ms": 14,
+    "timestamp": "2026-02-12T10:27:08.523Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892033514,
+    "kafka_received_at_ms": 1770892033519,
+    "latency_ms": 5,
+    "timestamp": "2026-02-12T10:27:13.519Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892033514,
+    "kafka_received_at_ms": 1770892033528,
+    "latency_ms": 14,
+    "timestamp": "2026-02-12T10:27:13.528Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892036515,
+    "kafka_received_at_ms": 1770892036535,
+    "latency_ms": 20,
+    "timestamp": "2026-02-12T10:27:16.535Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892036515,
+    "kafka_received_at_ms": 1770892036545,
+    "latency_ms": 30,
+    "timestamp": "2026-02-12T10:27:16.545Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892037516,
+    "kafka_received_at_ms": 1770892037523,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:27:17.523Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892037516,
+    "kafka_received_at_ms": 1770892037534,
+    "latency_ms": 18,
+    "timestamp": "2026-02-12T10:27:17.534Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892038517,
+    "kafka_received_at_ms": 1770892038522,
+    "latency_ms": 5,
+    "timestamp": "2026-02-12T10:27:18.522Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892038517,
+    "kafka_received_at_ms": 1770892038531,
+    "latency_ms": 14,
+    "timestamp": "2026-02-12T10:27:18.531Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892041520,
+    "kafka_received_at_ms": 1770892041528,
+    "latency_ms": 8,
+    "timestamp": "2026-02-12T10:27:21.528Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892041520,
+    "kafka_received_at_ms": 1770892041538,
+    "latency_ms": 18,
+    "timestamp": "2026-02-12T10:27:21.538Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892042521,
+    "kafka_received_at_ms": 1770892042529,
+    "latency_ms": 8,
+    "timestamp": "2026-02-12T10:27:22.529Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892042521,
+    "kafka_received_at_ms": 1770892042539,
+    "latency_ms": 18,
+    "timestamp": "2026-02-12T10:27:22.539Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892043522,
+    "kafka_received_at_ms": 1770892043538,
+    "latency_ms": 16,
+    "timestamp": "2026-02-12T10:27:23.538Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892043522,
+    "kafka_received_at_ms": 1770892043546,
+    "latency_ms": 24,
+    "timestamp": "2026-02-12T10:27:23.546Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892044523,
+    "kafka_received_at_ms": 1770892044530,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:27:24.530Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892044523,
+    "kafka_received_at_ms": 1770892044540,
+    "latency_ms": 17,
+    "timestamp": "2026-02-12T10:27:24.540Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892045524,
+    "kafka_received_at_ms": 1770892045531,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:27:25.531Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892045524,
+    "kafka_received_at_ms": 1770892045542,
+    "latency_ms": 18,
+    "timestamp": "2026-02-12T10:27:25.542Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892135678,
+    "kafka_received_at_ms": 1770892303320,
+    "latency_ms": 167642,
+    "timestamp": "2026-02-12T10:31:43.320Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892136677,
+    "kafka_received_at_ms": 1770892303361,
+    "latency_ms": 166684,
+    "timestamp": "2026-02-12T10:31:43.361Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892137678,
+    "kafka_received_at_ms": 1770892303365,
+    "latency_ms": 165687,
+    "timestamp": "2026-02-12T10:31:43.365Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892140680,
+    "kafka_received_at_ms": 1770892303369,
+    "latency_ms": 162689,
+    "timestamp": "2026-02-12T10:31:43.369Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892141682,
+    "kafka_received_at_ms": 1770892303375,
+    "latency_ms": 161693,
+    "timestamp": "2026-02-12T10:31:43.375Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892142682,
+    "kafka_received_at_ms": 1770892303380,
+    "latency_ms": 160698,
+    "timestamp": "2026-02-12T10:31:43.380Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892143683,
+    "kafka_received_at_ms": 1770892303383,
+    "latency_ms": 159700,
+    "timestamp": "2026-02-12T10:31:43.383Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892144684,
+    "kafka_received_at_ms": 1770892303387,
+    "latency_ms": 158703,
+    "timestamp": "2026-02-12T10:31:43.387Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892147687,
+    "kafka_received_at_ms": 1770892303390,
+    "latency_ms": 155703,
+    "timestamp": "2026-02-12T10:31:43.390Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892148688,
+    "kafka_received_at_ms": 1770892303392,
+    "latency_ms": 154704,
+    "timestamp": "2026-02-12T10:31:43.392Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892149689,
+    "kafka_received_at_ms": 1770892303394,
+    "latency_ms": 153705,
+    "timestamp": "2026-02-12T10:31:43.394Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892151692,
+    "kafka_received_at_ms": 1770892303396,
+    "latency_ms": 151704,
+    "timestamp": "2026-02-12T10:31:43.396Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892152692,
+    "kafka_received_at_ms": 1770892303398,
+    "latency_ms": 150706,
+    "timestamp": "2026-02-12T10:31:43.398Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892153692,
+    "kafka_received_at_ms": 1770892303400,
+    "latency_ms": 149708,
+    "timestamp": "2026-02-12T10:31:43.400Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892154693,
+    "kafka_received_at_ms": 1770892303403,
+    "latency_ms": 148710,
+    "timestamp": "2026-02-12T10:31:43.403Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892155694,
+    "kafka_received_at_ms": 1770892303406,
+    "latency_ms": 147712,
+    "timestamp": "2026-02-12T10:31:43.406Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892158699,
+    "kafka_received_at_ms": 1770892303407,
+    "latency_ms": 144708,
+    "timestamp": "2026-02-12T10:31:43.407Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892159700,
+    "kafka_received_at_ms": 1770892303409,
+    "latency_ms": 143709,
+    "timestamp": "2026-02-12T10:31:43.409Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892162704,
+    "kafka_received_at_ms": 1770892303411,
+    "latency_ms": 140707,
+    "timestamp": "2026-02-12T10:31:43.411Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892163706,
+    "kafka_received_at_ms": 1770892303413,
+    "latency_ms": 139707,
+    "timestamp": "2026-02-12T10:31:43.413Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892164705,
+    "kafka_received_at_ms": 1770892303415,
+    "latency_ms": 138710,
+    "timestamp": "2026-02-12T10:31:43.415Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892165706,
+    "kafka_received_at_ms": 1770892303417,
+    "latency_ms": 137711,
+    "timestamp": "2026-02-12T10:31:43.417Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892166708,
+    "kafka_received_at_ms": 1770892303420,
+    "latency_ms": 136712,
+    "timestamp": "2026-02-12T10:31:43.420Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892167709,
+    "kafka_received_at_ms": 1770892303422,
+    "latency_ms": 135713,
+    "timestamp": "2026-02-12T10:31:43.422Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892169711,
+    "kafka_received_at_ms": 1770892303424,
+    "latency_ms": 133713,
+    "timestamp": "2026-02-12T10:31:43.424Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892171713,
+    "kafka_received_at_ms": 1770892303426,
+    "latency_ms": 131713,
+    "timestamp": "2026-02-12T10:31:43.426Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892172714,
+    "kafka_received_at_ms": 1770892303427,
+    "latency_ms": 130713,
+    "timestamp": "2026-02-12T10:31:43.427Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892174717,
+    "kafka_received_at_ms": 1770892303429,
+    "latency_ms": 128712,
+    "timestamp": "2026-02-12T10:31:43.429Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892176718,
+    "kafka_received_at_ms": 1770892303430,
+    "latency_ms": 126712,
+    "timestamp": "2026-02-12T10:31:43.430Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892177718,
+    "kafka_received_at_ms": 1770892303431,
+    "latency_ms": 125713,
+    "timestamp": "2026-02-12T10:31:43.431Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892178719,
+    "kafka_received_at_ms": 1770892303433,
+    "latency_ms": 124714,
+    "timestamp": "2026-02-12T10:31:43.433Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892179720,
+    "kafka_received_at_ms": 1770892303435,
+    "latency_ms": 123715,
+    "timestamp": "2026-02-12T10:31:43.435Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892181722,
+    "kafka_received_at_ms": 1770892303438,
+    "latency_ms": 121716,
+    "timestamp": "2026-02-12T10:31:43.438Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892182723,
+    "kafka_received_at_ms": 1770892303442,
+    "latency_ms": 120719,
+    "timestamp": "2026-02-12T10:31:43.442Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892185726,
+    "kafka_received_at_ms": 1770892303444,
+    "latency_ms": 117718,
+    "timestamp": "2026-02-12T10:31:43.444Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892188729,
+    "kafka_received_at_ms": 1770892303445,
+    "latency_ms": 114716,
+    "timestamp": "2026-02-12T10:31:43.445Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892190731,
+    "kafka_received_at_ms": 1770892303446,
+    "latency_ms": 112715,
+    "timestamp": "2026-02-12T10:31:43.446Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892192733,
+    "kafka_received_at_ms": 1770892303448,
+    "latency_ms": 110715,
+    "timestamp": "2026-02-12T10:31:43.448Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892193734,
+    "kafka_received_at_ms": 1770892303449,
+    "latency_ms": 109715,
+    "timestamp": "2026-02-12T10:31:43.449Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892198738,
+    "kafka_received_at_ms": 1770892303452,
+    "latency_ms": 104714,
+    "timestamp": "2026-02-12T10:31:43.452Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892200740,
+    "kafka_received_at_ms": 1770892303455,
+    "latency_ms": 102715,
+    "timestamp": "2026-02-12T10:31:43.455Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892203743,
+    "kafka_received_at_ms": 1770892303457,
+    "latency_ms": 99714,
+    "timestamp": "2026-02-12T10:31:43.457Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892205745,
+    "kafka_received_at_ms": 1770892303458,
+    "latency_ms": 97713,
+    "timestamp": "2026-02-12T10:31:43.458Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892207747,
+    "kafka_received_at_ms": 1770892303460,
+    "latency_ms": 95713,
+    "timestamp": "2026-02-12T10:31:43.460Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892209749,
+    "kafka_received_at_ms": 1770892303461,
+    "latency_ms": 93712,
+    "timestamp": "2026-02-12T10:31:43.461Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892210750,
+    "kafka_received_at_ms": 1770892303462,
+    "latency_ms": 92712,
+    "timestamp": "2026-02-12T10:31:43.462Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892211751,
+    "kafka_received_at_ms": 1770892303464,
+    "latency_ms": 91713,
+    "timestamp": "2026-02-12T10:31:43.464Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892212752,
+    "kafka_received_at_ms": 1770892303465,
+    "latency_ms": 90713,
+    "timestamp": "2026-02-12T10:31:43.465Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892213753,
+    "kafka_received_at_ms": 1770892303466,
+    "latency_ms": 89713,
+    "timestamp": "2026-02-12T10:31:43.466Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892214754,
+    "kafka_received_at_ms": 1770892303470,
+    "latency_ms": 88716,
+    "timestamp": "2026-02-12T10:31:43.470Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892215755,
+    "kafka_received_at_ms": 1770892303472,
+    "latency_ms": 87717,
+    "timestamp": "2026-02-12T10:31:43.472Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892219758,
+    "kafka_received_at_ms": 1770892303474,
+    "latency_ms": 83716,
+    "timestamp": "2026-02-12T10:31:43.474Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892220759,
+    "kafka_received_at_ms": 1770892303475,
+    "latency_ms": 82716,
+    "timestamp": "2026-02-12T10:31:43.475Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892221760,
+    "kafka_received_at_ms": 1770892303477,
+    "latency_ms": 81717,
+    "timestamp": "2026-02-12T10:31:43.477Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892223762,
+    "kafka_received_at_ms": 1770892303478,
+    "latency_ms": 79716,
+    "timestamp": "2026-02-12T10:31:43.478Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892224763,
+    "kafka_received_at_ms": 1770892303480,
+    "latency_ms": 78717,
+    "timestamp": "2026-02-12T10:31:43.480Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892226765,
+    "kafka_received_at_ms": 1770892303481,
+    "latency_ms": 76716,
+    "timestamp": "2026-02-12T10:31:43.481Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892228767,
+    "kafka_received_at_ms": 1770892303483,
+    "latency_ms": 74716,
+    "timestamp": "2026-02-12T10:31:43.483Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892232771,
+    "kafka_received_at_ms": 1770892303485,
+    "latency_ms": 70714,
+    "timestamp": "2026-02-12T10:31:43.485Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892235774,
+    "kafka_received_at_ms": 1770892303488,
+    "latency_ms": 67714,
+    "timestamp": "2026-02-12T10:31:43.488Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892236775,
+    "kafka_received_at_ms": 1770892303490,
+    "latency_ms": 66715,
+    "timestamp": "2026-02-12T10:31:43.490Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892238777,
+    "kafka_received_at_ms": 1770892303491,
+    "latency_ms": 64714,
+    "timestamp": "2026-02-12T10:31:43.491Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892239778,
+    "kafka_received_at_ms": 1770892303493,
+    "latency_ms": 63715,
+    "timestamp": "2026-02-12T10:31:43.493Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892245784,
+    "kafka_received_at_ms": 1770892303494,
+    "latency_ms": 57710,
+    "timestamp": "2026-02-12T10:31:43.494Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892246785,
+    "kafka_received_at_ms": 1770892303496,
+    "latency_ms": 56711,
+    "timestamp": "2026-02-12T10:31:43.496Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892247786,
+    "kafka_received_at_ms": 1770892303497,
+    "latency_ms": 55711,
+    "timestamp": "2026-02-12T10:31:43.497Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892248787,
+    "kafka_received_at_ms": 1770892303499,
+    "latency_ms": 54712,
+    "timestamp": "2026-02-12T10:31:43.499Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892250789,
+    "kafka_received_at_ms": 1770892303501,
+    "latency_ms": 52712,
+    "timestamp": "2026-02-12T10:31:43.501Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892253792,
+    "kafka_received_at_ms": 1770892303503,
+    "latency_ms": 49711,
+    "timestamp": "2026-02-12T10:31:43.503Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892254792,
+    "kafka_received_at_ms": 1770892303505,
+    "latency_ms": 48713,
+    "timestamp": "2026-02-12T10:31:43.505Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892258795,
+    "kafka_received_at_ms": 1770892303506,
+    "latency_ms": 44711,
+    "timestamp": "2026-02-12T10:31:43.506Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892260798,
+    "kafka_received_at_ms": 1770892303508,
+    "latency_ms": 42710,
+    "timestamp": "2026-02-12T10:31:43.508Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892263800,
+    "kafka_received_at_ms": 1770892303509,
+    "latency_ms": 39709,
+    "timestamp": "2026-02-12T10:31:43.509Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892264801,
+    "kafka_received_at_ms": 1770892303510,
+    "latency_ms": 38709,
+    "timestamp": "2026-02-12T10:31:43.510Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892266803,
+    "kafka_received_at_ms": 1770892303512,
+    "latency_ms": 36709,
+    "timestamp": "2026-02-12T10:31:43.512Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892267804,
+    "kafka_received_at_ms": 1770892303513,
+    "latency_ms": 35709,
+    "timestamp": "2026-02-12T10:31:43.513Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892269806,
+    "kafka_received_at_ms": 1770892303515,
+    "latency_ms": 33709,
+    "timestamp": "2026-02-12T10:31:43.515Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892270807,
+    "kafka_received_at_ms": 1770892303517,
+    "latency_ms": 32710,
+    "timestamp": "2026-02-12T10:31:43.517Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892271808,
+    "kafka_received_at_ms": 1770892303519,
+    "latency_ms": 31711,
+    "timestamp": "2026-02-12T10:31:43.519Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892272809,
+    "kafka_received_at_ms": 1770892303521,
+    "latency_ms": 30712,
+    "timestamp": "2026-02-12T10:31:43.521Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892291069,
+    "kafka_received_at_ms": 1770892303523,
+    "latency_ms": 12454,
+    "timestamp": "2026-02-12T10:31:43.523Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892292069,
+    "kafka_received_at_ms": 1770892303524,
+    "latency_ms": 11455,
+    "timestamp": "2026-02-12T10:31:43.524Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892293071,
+    "kafka_received_at_ms": 1770892303526,
+    "latency_ms": 10455,
+    "timestamp": "2026-02-12T10:31:43.526Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892294072,
+    "kafka_received_at_ms": 1770892303528,
+    "latency_ms": 9456,
+    "timestamp": "2026-02-12T10:31:43.528Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892296073,
+    "kafka_received_at_ms": 1770892303529,
+    "latency_ms": 7456,
+    "timestamp": "2026-02-12T10:31:43.529Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892297074,
+    "kafka_received_at_ms": 1770892303530,
+    "latency_ms": 6456,
+    "timestamp": "2026-02-12T10:31:43.530Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892298075,
+    "kafka_received_at_ms": 1770892303532,
+    "latency_ms": 5457,
+    "timestamp": "2026-02-12T10:31:43.532Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892299075,
+    "kafka_received_at_ms": 1770892303602,
+    "latency_ms": 4527,
+    "timestamp": "2026-02-12T10:31:43.602Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892300076,
+    "kafka_received_at_ms": 1770892303605,
+    "latency_ms": 3529,
+    "timestamp": "2026-02-12T10:31:43.605Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892301077,
+    "kafka_received_at_ms": 1770892303606,
+    "latency_ms": 2529,
+    "timestamp": "2026-02-12T10:31:43.606Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892304082,
+    "kafka_received_at_ms": 1770892304090,
+    "latency_ms": 8,
+    "timestamp": "2026-02-12T10:31:44.090Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892305082,
+    "kafka_received_at_ms": 1770892305089,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:31:45.089Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892307084,
+    "kafka_received_at_ms": 1770892307092,
+    "latency_ms": 8,
+    "timestamp": "2026-02-12T10:31:47.092Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892308085,
+    "kafka_received_at_ms": 1770892308092,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:31:48.092Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892309086,
+    "kafka_received_at_ms": 1770892309092,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:31:49.092Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892310087,
+    "kafka_received_at_ms": 1770892310095,
+    "latency_ms": 8,
+    "timestamp": "2026-02-12T10:31:50.095Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892311088,
+    "kafka_received_at_ms": 1770892311095,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:31:51.095Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892312089,
+    "kafka_received_at_ms": 1770892312094,
+    "latency_ms": 5,
+    "timestamp": "2026-02-12T10:31:52.094Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892314092,
+    "kafka_received_at_ms": 1770892314099,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:31:54.099Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892315093,
+    "kafka_received_at_ms": 1770892315097,
+    "latency_ms": 4,
+    "timestamp": "2026-02-12T10:31:55.097Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892316094,
+    "kafka_received_at_ms": 1770892316101,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:31:56.101Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892317095,
+    "kafka_received_at_ms": 1770892317101,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:31:57.101Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892318096,
+    "kafka_received_at_ms": 1770892318101,
+    "latency_ms": 5,
+    "timestamp": "2026-02-12T10:31:58.101Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892319097,
+    "kafka_received_at_ms": 1770892319105,
+    "latency_ms": 8,
+    "timestamp": "2026-02-12T10:31:59.105Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892321098,
+    "kafka_received_at_ms": 1770892321102,
+    "latency_ms": 4,
+    "timestamp": "2026-02-12T10:32:01.102Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892325104,
+    "kafka_received_at_ms": 1770892325120,
+    "latency_ms": 16,
+    "timestamp": "2026-02-12T10:32:05.120Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892326105,
+    "kafka_received_at_ms": 1770892326112,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:32:06.112Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892327106,
+    "kafka_received_at_ms": 1770892327111,
+    "latency_ms": 5,
+    "timestamp": "2026-02-12T10:32:07.111Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892332111,
+    "kafka_received_at_ms": 1770892332117,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:32:12.117Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892334113,
+    "kafka_received_at_ms": 1770892334119,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:32:14.119Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892335114,
+    "kafka_received_at_ms": 1770892335118,
+    "latency_ms": 4,
+    "timestamp": "2026-02-12T10:32:15.118Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892336115,
+    "kafka_received_at_ms": 1770892336121,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:32:16.121Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892337116,
+    "kafka_received_at_ms": 1770892337134,
+    "latency_ms": 18,
+    "timestamp": "2026-02-12T10:32:17.134Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892338118,
+    "kafka_received_at_ms": 1770892338134,
+    "latency_ms": 16,
+    "timestamp": "2026-02-12T10:32:18.134Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892341120,
+    "kafka_received_at_ms": 1770892341125,
+    "latency_ms": 5,
+    "timestamp": "2026-02-12T10:32:21.125Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892343122,
+    "kafka_received_at_ms": 1770892343128,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:32:23.128Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892344123,
+    "kafka_received_at_ms": 1770892344131,
+    "latency_ms": 8,
+    "timestamp": "2026-02-12T10:32:24.131Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892345124,
+    "kafka_received_at_ms": 1770892345129,
+    "latency_ms": 5,
+    "timestamp": "2026-02-12T10:32:25.129Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892346125,
+    "kafka_received_at_ms": 1770892346131,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:32:26.131Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892347126,
+    "kafka_received_at_ms": 1770892347132,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:32:27.132Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892349128,
+    "kafka_received_at_ms": 1770892349135,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:32:29.135Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892350128,
+    "kafka_received_at_ms": 1770892350133,
+    "latency_ms": 5,
+    "timestamp": "2026-02-12T10:32:30.133Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892351129,
+    "kafka_received_at_ms": 1770892351135,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:32:31.135Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892352130,
+    "kafka_received_at_ms": 1770892352136,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:32:32.136Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892353132,
+    "kafka_received_at_ms": 1770892353140,
+    "latency_ms": 8,
+    "timestamp": "2026-02-12T10:32:33.140Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892354133,
+    "kafka_received_at_ms": 1770892354139,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:32:34.139Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892355134,
+    "kafka_received_at_ms": 1770892355141,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:32:35.141Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892356135,
+    "kafka_received_at_ms": 1770892356142,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:32:36.142Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892360140,
+    "kafka_received_at_ms": 1770892360146,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:32:40.146Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892361141,
+    "kafka_received_at_ms": 1770892361147,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:32:41.147Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892362142,
+    "kafka_received_at_ms": 1770892362146,
+    "latency_ms": 4,
+    "timestamp": "2026-02-12T10:32:42.146Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892365144,
+    "kafka_received_at_ms": 1770892365151,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:32:45.151Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892366146,
+    "kafka_received_at_ms": 1770892366152,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:32:46.152Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892370151,
+    "kafka_received_at_ms": 1770892370158,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:32:50.158Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892371152,
+    "kafka_received_at_ms": 1770892371159,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:32:51.159Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892372153,
+    "kafka_received_at_ms": 1770892372160,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:32:52.160Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892373154,
+    "kafka_received_at_ms": 1770892373159,
+    "latency_ms": 5,
+    "timestamp": "2026-02-12T10:32:53.159Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892374155,
+    "kafka_received_at_ms": 1770892374161,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:32:54.161Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892375157,
+    "kafka_received_at_ms": 1770892375163,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:32:55.163Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892377158,
+    "kafka_received_at_ms": 1770892377165,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:32:57.165Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892379161,
+    "kafka_received_at_ms": 1770892379178,
+    "latency_ms": 17,
+    "timestamp": "2026-02-12T10:32:59.178Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892380161,
+    "kafka_received_at_ms": 1770892380169,
+    "latency_ms": 8,
+    "timestamp": "2026-02-12T10:33:00.169Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892381163,
+    "kafka_received_at_ms": 1770892381169,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:33:01.169Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892382164,
+    "kafka_received_at_ms": 1770892382170,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:33:02.170Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892385167,
+    "kafka_received_at_ms": 1770892385173,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:33:05.173Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892386168,
+    "kafka_received_at_ms": 1770892386175,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:33:06.175Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892387169,
+    "kafka_received_at_ms": 1770892387176,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:33:07.176Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892388170,
+    "kafka_received_at_ms": 1770892388175,
+    "latency_ms": 5,
+    "timestamp": "2026-02-12T10:33:08.175Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892389171,
+    "kafka_received_at_ms": 1770892389176,
+    "latency_ms": 5,
+    "timestamp": "2026-02-12T10:33:09.176Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892390172,
+    "kafka_received_at_ms": 1770892390188,
+    "latency_ms": 16,
+    "timestamp": "2026-02-12T10:33:10.188Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892394176,
+    "kafka_received_at_ms": 1770892394183,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:33:14.183Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892395177,
+    "kafka_received_at_ms": 1770892395184,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:33:15.184Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892397180,
+    "kafka_received_at_ms": 1770892397187,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:33:17.187Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892398180,
+    "kafka_received_at_ms": 1770892398185,
+    "latency_ms": 5,
+    "timestamp": "2026-02-12T10:33:18.185Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892401184,
+    "kafka_received_at_ms": 1770892401191,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:33:21.191Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892402185,
+    "kafka_received_at_ms": 1770892402191,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:33:22.191Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892403186,
+    "kafka_received_at_ms": 1770892403192,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:33:23.192Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892404187,
+    "kafka_received_at_ms": 1770892404194,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:33:24.194Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892409192,
+    "kafka_received_at_ms": 1770892409198,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:33:29.198Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892410193,
+    "kafka_received_at_ms": 1770892410199,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:33:30.199Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892411194,
+    "kafka_received_at_ms": 1770892411199,
+    "latency_ms": 5,
+    "timestamp": "2026-02-12T10:33:31.199Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892412196,
+    "kafka_received_at_ms": 1770892412202,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:33:32.202Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892417201,
+    "kafka_received_at_ms": 1770892417207,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:33:37.207Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892418202,
+    "kafka_received_at_ms": 1770892418207,
+    "latency_ms": 5,
+    "timestamp": "2026-02-12T10:33:38.207Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892419203,
+    "kafka_received_at_ms": 1770892419210,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:33:39.210Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892420204,
+    "kafka_received_at_ms": 1770892420210,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:33:40.210Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892421205,
+    "kafka_received_at_ms": 1770892421211,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:33:41.211Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892422206,
+    "kafka_received_at_ms": 1770892422212,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:33:42.212Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892424208,
+    "kafka_received_at_ms": 1770892424214,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:33:44.214Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892425209,
+    "kafka_received_at_ms": 1770892425215,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:33:45.215Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892428212,
+    "kafka_received_at_ms": 1770892428218,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:33:48.218Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892429213,
+    "kafka_received_at_ms": 1770892429218,
+    "latency_ms": 5,
+    "timestamp": "2026-02-12T10:33:49.218Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892431215,
+    "kafka_received_at_ms": 1770892431222,
+    "latency_ms": 7,
+    "timestamp": "2026-02-12T10:33:51.222Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892435219,
+    "kafka_received_at_ms": 1770892435227,
+    "latency_ms": 8,
+    "timestamp": "2026-02-12T10:33:55.227Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892437221,
+    "kafka_received_at_ms": 1770892437227,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:33:57.227Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892438223,
+    "kafka_received_at_ms": 1770892438229,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:33:58.229Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892439224,
+    "kafka_received_at_ms": 1770892439229,
+    "latency_ms": 5,
+    "timestamp": "2026-02-12T10:33:59.229Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892440225,
+    "kafka_received_at_ms": 1770892440230,
+    "latency_ms": 5,
+    "timestamp": "2026-02-12T10:34:00.230Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892441226,
+    "kafka_received_at_ms": 1770892441231,
+    "latency_ms": 5,
+    "timestamp": "2026-02-12T10:34:01.231Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892443227,
+    "kafka_received_at_ms": 1770892443233,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:34:03.233Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892445229,
+    "kafka_received_at_ms": 1770892445246,
+    "latency_ms": 17,
+    "timestamp": "2026-02-12T10:34:05.246Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892446230,
+    "kafka_received_at_ms": 1770892446246,
+    "latency_ms": 16,
+    "timestamp": "2026-02-12T10:34:06.246Z"
+  },
+  {
+    "topic": "violations.events",
+    "device_uuid": "device-1",
+    "mqtt_sent_at_ms": 1770892447231,
+    "kafka_received_at_ms": 1770892447237,
+    "latency_ms": 6,
+    "timestamp": "2026-02-12T10:34:07.237Z"
+  }
+]

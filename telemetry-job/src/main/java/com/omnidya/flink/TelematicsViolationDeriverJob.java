@@ -120,7 +120,7 @@ public class TelematicsViolationDeriverJob {
             String accountId = text(payload, "account_id");
             String powerSource = text(payload, "dashcam_power_source");
 
-            // 1) STATUS EVENTS (cable-unplugged touch/clear)
+            // 1) STATUS EVENTS (emit only when power source is battery)
             if (deviceUuid != null && ts > 0) {
                 if ("battery".equalsIgnoreCase(powerSource)) {
                     // touch event (session logic happens in Node writer with Redis+Mongo)
@@ -136,17 +136,6 @@ public class TelematicsViolationDeriverJob {
                     // include location if exists
                     if (payload.has("location")) ev.set("location", payload.get("location"));
 
-                    ctx.output(STATUS_OUT, ev.toString());
-                } else {
-                    // clear event: power_source != battery
-                    ObjectNode ev = mapper.createObjectNode();
-                    ev.put("event_type", "device_status");
-                    ev.put("status_type", "cable-unplugged");
-                    ev.put("action", "clear");
-                    ev.put("device_uuid", deviceUuid);
-                    ev.put("timestamp", ts);
-                    if (vehicleId != null) ev.put("vehicle_id", vehicleId);
-                    if (accountId != null) ev.put("account_id", accountId);
                     ctx.output(STATUS_OUT, ev.toString());
                 }
             }
