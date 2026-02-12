@@ -9,7 +9,7 @@ MQTT Publishers → EMQX Broker → MQTT-Kafka Bridge → Kafka (telemetry.raw)
                                                           ↓
                                                     Flink Processing
                                                           ↓
-                                                  Kafka (telemetry.processed)
+                                                  Kafka (violations.events, device-status.events)
                                                           ↓
                                                   Kafka Consumer → MongoDB + Redis
 ```
@@ -19,7 +19,7 @@ MQTT Publishers → EMQX Broker → MQTT-Kafka Bridge → Kafka (telemetry.raw)
 - **EMQX**: MQTT broker for receiving telemetry data
 - **Kafka**: Message streaming platform with two topics:
   - `telemetry.raw`: Raw telemetry data from MQTT
-  - `telemetry.processed`: Processed data from Flink
+  - `violations.events & device-status.events`: Processed data from Flink
 - **Apache Flink**: Stream processing framework (jobs deployed separately)
 - **MongoDB**: Primary data store with geospatial indexes
 - **Redis**: Caching layer for device document IDs
@@ -558,6 +558,114 @@ rm latencies.json latency_graph.png
 ├── visualization.py            # Latency visualization
 ├── latencies.json             # Latency tracking data
 └── kafka-demo/                # Additional demo files
+```
+## harsh acceleration payload 
+
+```bash
+{
+  "device_uuid": "device-1",
+  "mqtt_sent_at_ms": 1739251205123,
+  "timestamp": 1739251205,
+  "account_id": "account-01",
+  "vehicle_id": "vehicle-001",
+  "speed_kph": 38.2,
+  "imu_is_stopped": false,
+  "dashcam_power_source": "vehicle",
+  "location": {
+    "type": "Point",
+    "coordinates": [72.51414, 23.04884]
+  },
+  "violations": [
+    {
+      "type": "harsh-acceleration",
+      "event_ts": 1739251205,
+      "axis": "x",
+      "accel_mps2": 4.3,
+      "threshold_mps2": 3.0,
+      "duration_ms": 420,
+      "peak_accel_mps2": 4.9,
+      "severity": "high",
+      "algo_version": "hbha-v1",
+      "source": "imu"
+    }
+  ]
+}
+```
+
+## harsh braking payload 
+
+```bash
+{
+  "device_uuid": "device-1",
+  "mqtt_sent_at_ms": 1739251210123,
+  "timestamp": 1739251210,
+  "account_id": "account-01",
+  "vehicle_id": "vehicle-001",
+  "speed_kph": 54.7,
+  "imu_is_stopped": false,
+  "dashcam_power_source": "vehicle",
+  "location": {
+    "type": "Point",
+    "coordinates": [72.51402, 23.04891]
+  },
+  "violations": [
+    {
+      "type": "harsh-braking",
+      "event_ts": 1739251210,
+      "axis": "x",
+      "decel_mps2": -4.8,
+      "threshold_mps2": -3.2,
+      "duration_ms": 510,
+      "peak_decel_mps2": -5.6,
+      "severity": "high",
+      "algo_version": "hbha-v1",
+      "source": "imu"
+    }
+  ]
+}
+```
+
+
+
+## harsh acceleration alerts are processed in violations.events
+
+```bash
+{
+	"event_type": "violation",
+	"violation_type": "harsh_accel",
+	"device_uuid": "device-1",
+	"vehicle_id": "694ce21db964dc22844b75ec",
+	"account_id": "693273ad26df5d305f556728",
+	"timestamp": 1770877033,
+	"location": {
+		"type": "Point",
+		"coordinates": [
+			73.273383,
+			21.520232
+		]
+	},
+	"details": {
+		"accel_y": 3.064375,
+		"speed_kph": 38.4,
+		"delta_speed": 17.1
+	},
+	"mqtt_sent_at_ms": 1770877033161
+
+}
+```
+
+## cable unplugged is processed in  device-status.events
+
+```bash
+{
+	"event_type": "device_status",
+	"status_type": "cable-unplugged",
+	"action": "clear",
+	"device_uuid": "device-1",
+	"timestamp": 1770877031,
+	"vehicle_id": "693ab2683c72f03dfae8ddc5",
+	"account_id": "693273ad26df5d305f556728"
+}
 ```
 
 ## License

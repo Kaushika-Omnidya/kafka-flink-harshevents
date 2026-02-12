@@ -2,6 +2,19 @@ version: "3.8"
 name: kafka-flink
 
 services:
+  kafka-ui:
+    image: provectuslabs/kafka-ui:latest
+    container_name: kafka-ui
+    ports:
+      - "8080:8080"
+    environment:
+      KAFKA_CLUSTERS_0_NAME: local
+      KAFKA_CLUSTERS_0_BOOTSTRAPSERVERS: kafka:9094
+    depends_on:
+      - kafka
+    networks:
+      - kafka-flink-network
+ 
   kafka:
     image: apache/kafka:latest
     container_name: kafka
